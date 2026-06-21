@@ -7,69 +7,69 @@
 ## Pages
 
 ### בית
-https://xavion-watches-99662885.zappy5.app
+https://example.com
 חנות אונליין מובילה לשעוני יוקרה לגברים מבית מותגי העל הנחשקים בעולם. היכנסו לגלות אוצרות אומנות אקסקלוסיביים ולרכוש את סמל הסטטוס הבא שלכם במחיר תחרותי.
 
 ### מותגים ואומנות
-https://xavion-watches-99662885.zappy5.app/brands-craftsmanship
+https://example.com/brands-craftsmanship
 צללו לעולמם המופלא של מותגי השעונים האגדיים. מסע נדיר אל תוך סודות האומנות, הדיוק והמורשת שמאחורי כל יצירת מופת הורולוגית. גלו מה הופך שעון לאגדה.
 
 ### מדריך קנייה
-https://xavion-watches-99662885.zappy5.app/buying-guide
+https://example.com/buying-guide
 מתלבטים איך לבחור את שעון היוקרה הראשון או הבא שלכם? מדריך קנייה מקיף החושף את כל הסודות: מהתאמה אישית ועד להשקעה נבונה. הפכו את הרכישה לחוויה מושלמת.
 
 ### צור קשר
-https://xavion-watches-99662885.zappy5.app/contact
+https://example.com/contact
 צרו איתנו קשר לייעוץ אישי ודיסקרטי בבחירת שעון היוקרה האידיאלי. צוות המומחים שלנו זמין להעניק לכם ליווי צמוד, החל משאלות על דגמים ועד להזמנות מתנות תאגידיות שעוני יוקרה.
 
 ### Products
-https://xavion-watches-99662885.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - Xavion Watches
 
 ### Cart
-https://xavion-watches-99662885.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://xavion-watches-99662885.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://xavion-watches-99662885.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://xavion-watches-99662885.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://xavion-watches-99662885.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://xavion-watches-99662885.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - Xavion Watches
 
 ### Category
-https://xavion-watches-99662885.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - Xavion Watches
 
 ### תודה רבה | Xavion Watches
-https://xavion-watches-99662885.zappy5.app/thank-you
+https://example.com/thank-you
 תודה שפנית אלינו. הודעתך התקבלה ונציג Xavion Watches יחזור אליך בהקדם בנוגע לקולקציית שעוני יוקרה לגברים שלנו.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://xavion-watches-99662885.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://xavion-watches-99662885.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://xavion-watches-99662885.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -97,8 +97,8 @@ Luxury Watches E-commerce
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://xavion-watches-99662885.zappy5.app/sitemap.xml
-- Robots: https://xavion-watches-99662885.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://xavion-watches-99662885.zappy5.app/llms-full.txt
-- Products (JSON): https://xavion-watches-99662885.zappy5.app/products.json
-- Products (Google Merchant RSS): https://xavion-watches-99662885.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
